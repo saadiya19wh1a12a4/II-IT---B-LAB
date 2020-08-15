@@ -20,5 +20,5 @@
 “element found at 1”
 “element found at 8”
 “element found at 3”.      
-
-
+For key 12
+![output](binaryiterative12.png)

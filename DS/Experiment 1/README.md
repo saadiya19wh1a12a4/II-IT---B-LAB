@@ -22,3 +22,7 @@
 “element found at 3”.      
 For key 12
 ![output](binaryiterative12.png)
+For key 92
+![output](binaryiterative92.png)
+For key 33
+![output](binaryiterative33.png)

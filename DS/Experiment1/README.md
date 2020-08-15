@@ -15,4 +15,4 @@ And the next condition given is if the key element is not present in the given a
         4
         Element not found
 for key 36 100
-![output](linear exp1 sol.png)
+![output](linear exp1 sol.png)![linear exp1 sol](https://user-images.githubusercontent.com/69639140/90313268-d3018700-df28-11ea-8b9f-f4b36b1161fc.png)

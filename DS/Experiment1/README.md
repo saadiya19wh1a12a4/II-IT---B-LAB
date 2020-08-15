@@ -14,3 +14,5 @@ And the next condition given is if the key element is not present in the given a
 #OUTPUT:
         4
         Element not found
+for key 36 100
+![output](linear exp1 sol.png)

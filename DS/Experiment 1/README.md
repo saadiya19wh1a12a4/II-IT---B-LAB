@@ -25,4 +25,7 @@ For key 12
 For key 92
 ![output](binaryiterative92.png)
 For key 33
-![output](binaryiterative33.png)
+![output](binaryiterative33.png)![binaryiterative33](https://user-images.githubusercontent.com/69639140/90313126-b57fed80-df27-11ea-8bd3-51a9fde7398a.png)
+![binaryiterative92 ](https://user-images.githubusercontent.com/69639140/90313129-b7e24780-df27-11ea-82bb-d65573ed4b45.png)
+![binaryiterative12](https://user-images.githubusercontent.com/69639140/90313132-b9137480-df27-11ea-9ade-f5038f2dfc59.png)
+

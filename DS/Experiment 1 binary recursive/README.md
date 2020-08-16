@@ -17,4 +17,6 @@ OUTPUT:
                 8
                  4
 
-
+![Screenshot (33)](https://user-images.githubusercontent.com/69639140/90326219-55c72800-dfa3-11ea-8741-c49fea799c67.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/69639140/90326220-5790eb80-dfa3-11ea-9677-0d73a0db7e6c.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/69639140/90326222-5e1f6300-dfa3-11ea-92a4-e602b96a1c1d.png)

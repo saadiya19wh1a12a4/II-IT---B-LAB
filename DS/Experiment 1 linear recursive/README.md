@@ -16,4 +16,6 @@ INPUT:
 OUTPUT:
                  4
                  Element not found
+![Linear recursive es1 (2)](https://user-images.githubusercontent.com/69639140/90326145-7b076680-dfa2-11ea-8965-e65d2892132a.png)
+![Linear recursive es1 (1)](https://user-images.githubusercontent.com/69639140/90326148-7d69c080-dfa2-11ea-928c-58ad64126577.png)
 

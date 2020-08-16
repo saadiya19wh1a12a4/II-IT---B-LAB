@@ -1,6 +1,6 @@
 # AIM OF THE EXPERIMENT:  To write a binary search program using recursive function.
 BINARY SEARCH : to find a key element in an given array in which the elements must be sorted.
-#RECURSIVE FUNCTIONS:
+#RECURSIVE FUNCTIONS: The basis of recursion is functions is to make the task simple and that the function doesn't make further calls.
 # PROCEDURE :
 First we to take an array i.e. a[] = {3,12,29,33,36,54,60,61,92,98}
 Consider a  variable to iterate the elements in array i.e. ”i” and also find the mid value i.e. mid =(0+n)/2 or (first + last)/2, where n is index of last element.

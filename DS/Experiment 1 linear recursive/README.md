@@ -18,4 +18,6 @@ Where n is element index of last element.
                  4
                  Element not found
 
-
+![Screenshot (47)](https://user-images.githubusercontent.com/69639140/90410423-f7e03080-e0c7-11ea-95cf-2ef7000b9783.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/69639140/90410433-f9a9f400-e0c7-11ea-8dba-31b509e625d3.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/69639140/90410438-fadb2100-e0c7-11ea-9334-744cedf7aa5f.png)

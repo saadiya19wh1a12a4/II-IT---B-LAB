@@ -19,4 +19,8 @@ This will be continued until key element is found or until search space exhauste
          4
          8
          3
+![Screenshot (41)](https://user-images.githubusercontent.com/69639140/90410080-915b1280-e0c7-11ea-8f0b-713053eca938.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/69639140/90410094-94560300-e0c7-11ea-8433-10f0d494fb79.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/69639140/90410103-95873000-e0c7-11ea-9931-625853832767.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/69639140/90410151-a0da5b80-e0c7-11ea-91a0-0a1d29049aff.png)
 

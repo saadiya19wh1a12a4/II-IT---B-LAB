@@ -108,3 +108,6 @@ Procedure of obtaining output:
 By the end of the fourth iteration, the fifth greatest
 element lies at the end. Here, it is 89 which is last fourth
 from the end. And the array elements (after the completion of 5th iteration).
+![Screenshot (60)](https://user-images.githubusercontent.com/69639140/90801819-03d02a80-e334-11ea-94cc-073619d56204.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/69639140/90801827-06328480-e334-11ea-8d3c-cb145df966f7.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/69639140/90801828-06cb1b00-e334-11ea-9e1c-28e10cc7e83d.png)
